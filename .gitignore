@@ -1,0 +1,34 @@
+# Maven build artifacts
+target/
+*.jar
+*.war
+*.ear
+
+# Maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Downloaded Maven
+apache-maven-3.8.8/
+apache-maven-3.8.8-bin.tar.gz</content>
+<parameter name="filePath">/workspaces/tpicap/.gitignore
